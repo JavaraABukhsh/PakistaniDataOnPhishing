@@ -16,13 +16,6 @@ The dataset features examples of phishing and legitimate emails sourced from var
 
 ***
 ### How to Cite
-If you would like to cite this dataset, please use the following:
+Bukhsh, J. A., Daneva, M., & van Sinderen, M. (2025). Exploring User Risk Factors and Target Groups for Phishing Victimization in Pakistan. arXiv preprint arXiv:2510.09249.
 
-General Information to Include:
-
-**Authors:** Javara Alah Bukhsh, Maya Daneva, Marten Van Sinderen
-
-**Year:** 2025
-
-**Title of Paper:** Exploring User Risk Factors and Target Groups for Phishing Victimization in Pakistan
 
